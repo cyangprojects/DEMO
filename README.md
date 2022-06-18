@@ -1,2 +1,2 @@
 # Demo
-Hello World. This is a DEMO.
+Hello World. This is a DEMO!
